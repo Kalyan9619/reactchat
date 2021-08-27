@@ -1,8 +1,4 @@
-# React Chat App
-#### This is a simple react chat application
-
-#### 📷 Screenshot:
-![React chat](https://i.imgur.com/P9PTZXl.png)
+Blockchain Oledger
 
 #### 🛠 Tools:
 - Socket.io
