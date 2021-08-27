@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "build": "cd ./client && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "client": "^0.0.1",
+    "dependencies": "^0.0.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
