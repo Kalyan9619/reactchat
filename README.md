@@ -1,11 +1,10 @@
 Blockchain Oledger
-
-#### 🛠 Tools:
+Tools:
 - Socket.io
 - Express.js
 - React.js
 
-#### 🚀 Start:
+Start:
 ```bash
 npm install // install dependencies
 cd ./client && npm install && cd .. // install client dependencies
